@@ -1,0 +1,83 @@
+{
+  "ascii": [
+    "███████╗██╗  ██╗███████╗██╗     ██╗",
+    " ██╔════╝██║  ██║██╔════╝██║     ██║",
+    "███████╗███████║█████╗  ██║     ██║",
+    "╚════██║██╔══██║██╔══╝  ██║     ██║",
+    "███████║██║  ██║███████╗███████╗███████╗",
+    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+  ],
+  "title": "WebShell",
+  "username": "Baniya",
+  "repoLink": "https://github.com/1yvuraj",
+  "social": {
+    "email": "jobupdateformyself@gmail.com",
+    "github": "https://github.com/1yvuraj",
+    "linkedin": "/yuvraj-aggarwal-486571219/"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to YuvrajShell.",
+  "projects": [
+    [
+      "NpmPackageLink",
+      "An npm package to convert currency",
+      "https://www.npmjs.com/package/baniya-yuvraj-currency-converter?activeTab=code"
+    ],
+    [
+      "WellBeingLink",
+      " This is a website through which various hospitals can combine their facilities for the fastest way of providing different types of services such as organ donation, medicine facilities, and blood donation.",
+      "https://drive.google.com/file/d/1r5e49gZnjAZwPWh_pOTDhjIonSeWThgN/view"
+    ],
+    [
+      "BaniyaEstateLink",
+      "Aggarwal Estate Is The Best Place To Find Your Next Perfect Place To Live.We Have A Wide Range Of Properties For You To Choose From.",
+      "https://aggarwal-estate.onrender.com/"
+    ],
+    [
+      "HashtagLink",
+      "It's a college technical society of JEMTEC, which encourages student to participate in technical event.",
+      "https://hashtag-jemtec.netlify.app/"
+    ],
+    [
+      "BrainTumarLink",
+      "It's a BrainTumat detection website!",
+      "https://braintumor-detection.onrender.com/"
+    ],
+    [
+      "DashboardLink",
+      "It's a dashboard website design!",
+      "https://kamona-wd.github.io/kwd-dashboard/"
+    ],
+    [
+      "MovieLink",
+      "It's a movie application!",
+      "https://moviestationapp.netlify.app/"
+    ]
+
+
+
+
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
